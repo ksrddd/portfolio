@@ -12,6 +12,7 @@ app.use(express.json());
 const projectRoutes = require("./src/routes/projects");
 app.use("/api/projects", projectRoutes);
 
+// oeo,emfoesmfsdm,fosdmfdf,
 app.get("/", (req, res) => {
   res.json({ message: "Cyber Portfolio API is online." });
 });
