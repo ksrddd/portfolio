@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: 'SYSADMIN // PORTFOLIO',
+      title: 'Sukhum Rudeemaetakul - Portfolio',
       meta: [
         { name: 'description', content: 'Cybersecurity Analyst & Full-Stack Developer Portfolio' }
       ],
